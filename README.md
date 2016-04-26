@@ -7,6 +7,6 @@ Provides radar-like visual representation of real time x,y coordinates sent via 
 
 **Links:** JSFiddle with example data from an actual serial data stream for client's web app at [https://jsfiddle.net/lukeblechl/v5hbbnxv/](https://jsfiddle.net/lukeblechl/v5hbbnxv/).
 
-[https://youtu.be/loQxCBzDjhQ](Sample video of LIDAR sensor in action)
+[Sample video of LIDAR sensor in action](https://youtu.be/loQxCBzDjhQ)
 
 Further updates to this project and other Arduino projects can be found at [http://www.arduinovideotutorials.com/blog.html](http://www.arduinovideotutorials.com/blog.html).
